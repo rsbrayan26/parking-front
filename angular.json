@@ -25,9 +25,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/css/materialize.css",
+              "src/css/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "/src/assets/materialize.js"
+            ]
           },
           "configurations": {
             "production": {
