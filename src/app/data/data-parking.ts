@@ -27,4 +27,20 @@ export const VEHICLES: Vehicle[] = [
     entry_time: new Date("2024-06-26T08:30:00"),
     plate: "JKL321",
   },
+  {
+    entry_time: new Date("2024-06-26T08:30:00"),
+    plate: "GHI789",
+  },
+  {
+    entry_time: new Date("2024-06-26T08:30:00"),
+    plate: "JKL321",
+  },
+  {
+    entry_time: new Date("2024-06-26T08:30:00"),
+    plate: "GHI789",
+  },
+  {
+    entry_time: new Date("2024-06-26T08:30:00"),
+    plate: "JKL321",
+  },
 ];
